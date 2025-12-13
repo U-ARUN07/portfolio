@@ -2,7 +2,7 @@
 
 # ⚡ Adaptive Portfolio V2
 
-<img src="public/projects/medicare.png" width="800" alt="Portfolio Banner" style="border-radius: 20px; box-shadow: 0 0 50px rgba(0,0,0,0.5);" />
+<img src="public/projects/finsight.png" width="800" alt="Portfolio Banner" style="border-radius: 20px; box-shadow: 0 0 50px rgba(0,0,0,0.5);" />
 
 ### A Premium, Interactive Developer Portfolio Journey
 
